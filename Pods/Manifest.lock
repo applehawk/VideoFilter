@@ -1,0 +1,36 @@
+PODS:
+  - GPUImage (0.1.7)
+  - PryntTrimmerView (3.0.0)
+  - RecordButton (1.0.2)
+  - SteviaLayout (4.4.0)
+  - SwiftyCam (3.0.0)
+  - YPImagePicker (3.5.2):
+    - PryntTrimmerView (~> 3.0.0)
+    - SteviaLayout (~> 4.4.0)
+
+DEPENDENCIES:
+  - GPUImage
+  - RecordButton
+  - SwiftyCam
+  - YPImagePicker
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GPUImage
+    - PryntTrimmerView
+    - RecordButton
+    - SteviaLayout
+    - SwiftyCam
+    - YPImagePicker
+
+SPEC CHECKSUMS:
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  PryntTrimmerView: 53ac64053c7ce63cb3e27f54090f52da0734891d
+  RecordButton: 76677be0f4b94f8a387454a23b4b64bd9b6c0e51
+  SteviaLayout: dd74d1abd127bbf0ce346ac9430441684fe427d0
+  SwiftyCam: 67338308e3a5a3545c2aeee17e2c964eba4cf49f
+  YPImagePicker: 26d5bf7bfe1cffd1c5eedea3ac60422b314e2a42
+
+PODFILE CHECKSUM: ccc2d0dd6f860bd1824b68cd4fed71a8b8903804
+
+COCOAPODS: 1.5.3
